@@ -1,0 +1,27 @@
+unused heap top
+Is it a mammal?
+Is it a bird?
+Is it feline?
+Is it a fish?
+Is it flightless?
+Is it a primate?
+Is it a common house pet?
+Is it an alligator?
+Is it a shark?
+Is it a hawk?
+Is it swim?
+Is it canine?
+Is it a gorilla?
+Is it a lion?
+Is it a house cat?
+6
+Is it smaller than an emu?
+Is it a penguin?
+Is it fly?
+Is it a fox?
+18
+Is it an emu?
+Is it a chicken?
+2
+Is it a horse?
+Is it a bat?
